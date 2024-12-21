@@ -7,5 +7,5 @@ Tested on:
 3. Kay's CSGO Modded
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/DanXvoIsMe/RobloxScripts/main/UniversalHitbox/obf.lua"), true)()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DanXvoIsMe/RobloxScripts/main/UniversalHitbox/obf.lua"))()
 ```
