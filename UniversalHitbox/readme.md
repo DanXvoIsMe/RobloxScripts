@@ -1,4 +1,4 @@
-# UniversalHitbox
+# UniversalHitbox | Standart
 Expand hitboxes in many roblox shooters.
 
 Tested on:
